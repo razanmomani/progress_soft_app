@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95174469298",
+    "project_id": "razan-484ff",
+    "storage_bucket": "razan-484ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95174469298:android:0783d7ee944f31670a8bab",
+        "android_client_info": {
+          "package_name": "com.example.progress_soft_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfwfTpFIKt-JiY8OZcb_JXS7Fk-QoWhoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
